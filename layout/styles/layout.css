@@ -34,7 +34,7 @@ File: Layout CSS
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:250px 0 125px; text-align:center;}
+#pageintro{padding:60px 0 35px; text-align:center;}
 
 #pageintro *{margin:0 auto 50px; padding:0;}
 #pageintro .heading{font-size:46px; font-style:bold;}
